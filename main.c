@@ -51,5 +51,5 @@ int main(int argc, char **argv) {
         q.size--;
     }
 
-    return 0;
-}
+    return 0; 
+} // end main
